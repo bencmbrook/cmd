@@ -1,0 +1,11 @@
+{
+  "name": "@bencmbrook/cmd",
+  "version": "1.0.0",
+  "description": "Run terminal commands in Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Ben Brook",
+  "license": "MIT"
+}
