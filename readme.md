@@ -2,7 +2,7 @@ Run terminal commands in Node.
 
 ## Example
 ```js
-const cmd = require('cmd');
+const cmd = require('@bencmbrook/cmd');
 
 cmd('echo hello world');
 ```
